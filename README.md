@@ -9,3 +9,5 @@ Just read through each section. If questions arise make it an Issue.
 TODO:
  * Bit Rotating
  * 
+
+[![Run on Repl.it](https://repl.it/badge/github/Daniel-Trevitz/BitShifting)](https://repl.it/github/Daniel-Trevitz/BitShifting)
