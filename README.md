@@ -9,7 +9,8 @@ Just read through each section. If questions arise make it an Issue.
 4) Grouping bits in a bitmasks
 5) Using bitshifting to read bitmasks
 6) Using bitshifting to write bitmasks
-7) 
+7) Setting and Clearing bits
+8) Converting a group of states to/from a single byte.
 
 TODO:
  * Bit Rotating
