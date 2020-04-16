@@ -5,7 +5,11 @@ Just read through each section. If questions arise make it an Issue.
 
 1) Basics of bit shifting
 2) Math with bit shifting
-3) 
+3) Intro to bitmasks
+4) Grouping bits in a bitmasks
+5) Using bitshifting to read bitmasks
+6) Using bitshifting to write bitmasks
+7) 
 
 TODO:
  * Bit Rotating
