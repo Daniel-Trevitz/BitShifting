@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 06*.cpp -o 06; ./06"
+run = "g++ 07*.cpp -o 07; ./07"
