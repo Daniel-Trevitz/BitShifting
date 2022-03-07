@@ -73,10 +73,10 @@ int main()
     // And, just as a callback to how *2 /2 can be done with << and >>
     // we can also do << and >> with *2 and /2 (but it is less clear)
     // Note that we use + instead of |. They are often interchangable.
-    result = ((values[0] & 0x03)*1
-           + ((values[1] & 0x03)*2
-           + ((values[2] & 0x03)*4
-           + ((values[3] & 0x03)*8;
+    result = (values[0] & 0x03)*1
+           + (values[1] & 0x03)*2
+           + (values[2] & 0x03)*4
+           + (values[3] & 0x03)*8;
     printAsBinary(result); // 11 01 10 01
 
 
