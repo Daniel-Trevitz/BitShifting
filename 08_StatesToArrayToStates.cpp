@@ -74,9 +74,9 @@ int main()
     // we can also do << and >> with *2 and /2 (but it is less clear)
     // Note that we use + instead of |. They are often interchangable.
     result = (values[0] & 0x03)*1
-           + (values[1] & 0x03)*2
-           + (values[2] & 0x03)*4
-           + (values[3] & 0x03)*8;
+           + (values[1] & 0x03)*4
+           + (values[2] & 0x03)*16
+           + (values[3] & 0x03)*64;
     printAsBinary(result); // 11 01 10 01
 
 
